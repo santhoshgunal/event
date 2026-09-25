@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System (Django + React)
 
 Simple CRUD app. Only **GET** and **POST** routes are used (no PUT/PATCH/DELETE HTTP verbs) —
@@ -61,3 +62,6 @@ React will run at **http://127.0.0.1:3000/** and talk to Django automatically.
 - CORS is fully open (`CORS_ALLOW_ALL_ORIGINS = True`) for local development only —
   tighten this before deploying anywhere real.
 - SQLite is used by default, so there's zero database setup needed.
+=======
+# event
+>>>>>>> cf60adc91e58c51ca22c489e86acb5548af7d413
